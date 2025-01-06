@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.querySelectorAl
             <path
                 d="M10 1.5v1H6v-1a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H5zM4.5 3a.5.5 0 0 0-.5.5V13a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 .5-.5V3.5a.5.5 0 0 0-.5-.5h-7z" />
         </svg>
-        Copy code
+        Copy
     `;let d=document.createElement("span");d.className="cb-copy-confirmation",d.innerHTML=`
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
             class="bi bi-clipboard-check" viewBox="0 0 16 16">
